@@ -9,6 +9,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "sasa"
+    },
+    {
+      "name": "Sam",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sam"
     }
   ],
   "variable_elements": [],

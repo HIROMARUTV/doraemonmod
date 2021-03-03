@@ -1,0 +1,16 @@
+{
+  "group": "samp",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stripped_warped_hyphae"
+    }
+  },
+  "result": {
+    "item": "minecraft:cobblestone_stairs",
+    "count": 1
+  }
+}
